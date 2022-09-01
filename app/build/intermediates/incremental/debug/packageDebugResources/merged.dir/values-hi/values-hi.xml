@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">नमस्ते दुनिया</string>
+    <string name="greeting">दुनिया खूबसूरत है</string>
+    <string name="language">हिन्दी</string>
+</resources>

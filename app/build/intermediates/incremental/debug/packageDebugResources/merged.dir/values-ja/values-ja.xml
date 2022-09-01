@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">こんにちは世界</string>
+    <string name="greeting">世界は美しい</string>
+    <string name="language">日本語</string>
+</resources>
